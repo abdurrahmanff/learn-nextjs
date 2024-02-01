@@ -1,0 +1,14 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.configPath": "prettier.config.js",
+  "discord.smallImage": "{app_name}",
+  "discord.enabled": true,
+  "discord.detailsDebugging": "Debugging {file_name}",
+  "discord.detailsEditing": "Editing {file_name}",
+  "discord.detailsIdling": "Idling",
+  "discord.largeImage": "Editing a {LANG} file",
+  "discord.largeImageIdling": "Idling",
+  "discord.lowerDetailsDebugging": "Debugging: {workspace}",
+  "discord.lowerDetailsEditing": "Workspace: {workspace}"
+}
