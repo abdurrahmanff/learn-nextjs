@@ -10,5 +10,8 @@
   "discord.largeImage": "Editing a {LANG} file",
   "discord.largeImageIdling": "Idling",
   "discord.lowerDetailsDebugging": "Debugging: {workspace}",
-  "discord.lowerDetailsEditing": "Workspace: {workspace}"
+  "discord.lowerDetailsEditing": "Workspace: {workspace}",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
